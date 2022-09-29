@@ -1,0 +1,6 @@
+{
+  "mongo": {
+    "url": "MONGO_URL"
+  },
+  "logLevel": "error"
+}

@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 8080
+  },
+  "mongo": {
+    "url": "MONGO_URL"
+  },
+  "logLevel": "error"
+}

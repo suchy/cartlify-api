@@ -1,0 +1,5 @@
+node_modules
+.env
+.vscode
+request.http
+src/client
